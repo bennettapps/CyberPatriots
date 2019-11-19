@@ -1,0 +1,7 @@
+#!/bin/sh
+sudo apt-get --purge remove wireshark -y
+sudo apt-get --purge remove nmap -y
+sudo apt-get --purge remove telnet -y
+sudo apt-get --purge remove zenmap -y
+sudo apt-get autoremove -y
+
