@@ -2,6 +2,8 @@
 
 This repository is to be used to hold notes and scripts for CyberPatriots.
 
+First, clone this repository onto the machine to get the scripts there. To get them to run on Ubuntu, go to Files > Preferences and allow executables to run.
+
 Here is my checklist for Ubuntu. Pretty much everything applies to Windows as well, only the steps to accomplish everything is different.
   1. Read Readme thoroughly and take notes. Anytime you get completely stuck, look at the Readme for hints!
   2. Do the Forensics questions. Any time you don't understand something, Google it. Additionally, the Forensics often give you hints for other issues.
@@ -21,3 +23,4 @@ Here is my checklist for Ubuntu. Pretty much everything applies to Windows as we
  16. Remove non admins from admin and sudo groups.
  
   Jesse Bennett
+
